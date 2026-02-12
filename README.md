@@ -43,6 +43,8 @@ IntelliPDF is planned as a web-based system with:
 - Secure file and API handling
 - Usable interface across modern browsers and devices
 
+  -----------------------------------
+
 ## Document Guide
 
 For complete project understanding, review in this order:
