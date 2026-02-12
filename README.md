@@ -28,12 +28,4 @@ I want to build a system that helps users understand long PDF documents quickly 
 - Professionals
 - Anyone working with large PDFs
 
-## Current Status
 
-Planning stage only.
-
-No full implementation yet.
-
-## Purpose of This Repo
-
-To define and organize the full idea before development starts.
